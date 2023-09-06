@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharleeneEvangelio
 - 👀 I’m interested in Data Analysis specially Financial and Accounting Data
-- 🌱 I’m currently learning Pythin, Power BI, Tableau and R
+- 🌱 I’m currently learning Python, Power BI, Tableau and R and other related tools
 - 💞️ I’m looking to collaborate on those people who can help me enhance my skills and knowledege in these tools
 - 📫 How to reach me email: charleene.evangelio@gmail.com LinkedIn Account: https://www.linkedin.com/in/charleene-evangelio-50560357/
 
